@@ -85,8 +85,7 @@ FID
 
 Model | IS $⇑$ | FID $⇓$ |
 ---------|------|-----------|
-DCGAN | 2.186 | 223.494 |
-Label Smoothing (LS) | 2.823 | 204.962 |
-Spectral Normalization (SN) |  |
-DCGAN + LS + SN | 2.329 | 208.758 |
+DCGAN | 4.163 | 123.756 |
+Label Smoothing (LS) | 4.430 | 126.078 |
+DCGAN + LS + SN | 4.482 | 124.851 |
 CIFAR10 | 10.98 ± 0.22 | 3.1508
